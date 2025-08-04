@@ -1,0 +1,4 @@
+NAME:S.Poorinma
+CLASS:BSC-A
+COURSE:Computer science
+SUC:2367250137
